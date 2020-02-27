@@ -1,0 +1,11 @@
+# npm files
+node_modules/
+
+# parcel files
+.cache/
+build/
+dist/
+
+# vscode files
+.vscode/
+

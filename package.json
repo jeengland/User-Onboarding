@@ -1,0 +1,32 @@
+{
+  "name": "user-onboarding",
+  "version": "1.0.0",
+  "description": "We've seen many different styles of form management by now -- simple to complex. Today we are going to unleash your inner form-wizard! 🧙",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeengland/User-Onboarding.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeengland/User-Onboarding/issues"
+  },
+  "homepage": "https://github.com/jeengland/User-Onboarding#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "formik": "^2.1.4",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "yup": "^0.28.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/preset-react": "^7.8.3",
+    "parcel-bundler": "^1.12.4"
+  }
+}
